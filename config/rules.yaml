@@ -1,0 +1,14 @@
+rules:
+  source_of_truth:
+    - config/project.yaml
+    - config/agents.yaml
+    - config/workflow.yaml
+    - config/rules.yaml
+    - skills/
+    - memory/
+  behavior:
+    - Preserve user changes.
+    - Avoid unrelated edits.
+    - Do not add application code unless requested.
+    - Use data/ CSV files as the working input for SCM analysis.
+    - Compute large aggregates locally before involving the LLM.

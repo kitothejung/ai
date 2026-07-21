@@ -1,0 +1,21 @@
+workflow:
+  read_order:
+    - config/project.yaml
+    - config/agents.yaml
+    - config/workflow.yaml
+    - config/rules.yaml
+    - skills/
+    - memory/07-inferred-scm-knowledge.md
+    - memory/00-index.md
+    - memory/01-project-brief.md
+    - memory/02-decisions.md
+    - memory/03-active-context.md
+  update_order:
+    - config/workflow.yaml
+    - config/rules.yaml
+    - skills/
+    - memory/
+  rules:
+    - Keep durable context in memory.
+    - Keep reusable instructions in skills markdown files.
+    - Keep agent-specific bootstrap files lightweight.

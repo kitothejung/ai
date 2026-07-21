@@ -1,0 +1,13 @@
+name: shared-ai-memory-system
+purpose: Shared memory workspace for Claude and Codex
+reference_chain:
+  - config/project.yaml
+  - config/agents.yaml
+  - config/workflow.yaml
+  - config/rules.yaml
+  - skills/
+  - memory/
+notes:
+  - Keep this file as the top-level entry point for both agents.
+  - Do not add application code unless explicitly requested.
+  - SCM analysis will use CSV files from data/.

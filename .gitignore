@@ -2,3 +2,4 @@
 .venv/
 .agent/
 .vscode/
+*.pyc

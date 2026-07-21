@@ -3,6 +3,7 @@
 ## Purpose
 
 Build a shared AI memory system that helps Claude and Codex retain durable context across sessions.
+Extend it with SCM analysis skills that read CSV files in `data/`.
 
 ## Current Scope
 
@@ -16,4 +17,3 @@ Build a shared AI memory system that helps Claude and Codex retain durable conte
 - Application code
 - Runtime logic
 - External integrations
-

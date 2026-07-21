@@ -1,0 +1,320 @@
+[
+  {
+    "week_start": "2024-01-01",
+    "sales_amount": 1248433.0,
+    "demand_units": 996.0,
+    "supply_units": 12265.0
+  },
+  {
+    "week_start": "2024-01-08",
+    "sales_amount": 2668661.0,
+    "demand_units": 1718.0,
+    "supply_units": 14054.0
+  },
+  {
+    "week_start": "2024-01-15",
+    "sales_amount": 2233741.0,
+    "demand_units": 1476.0,
+    "supply_units": 13301.0
+  },
+  {
+    "week_start": "2024-01-22",
+    "sales_amount": 2067993.0,
+    "demand_units": 1508.0,
+    "supply_units": 15366.0
+  },
+  {
+    "week_start": "2024-01-29",
+    "sales_amount": 2054929.0,
+    "demand_units": 1302.0,
+    "supply_units": 13430.0
+  },
+  {
+    "week_start": "2024-02-05",
+    "sales_amount": 2285386.0,
+    "demand_units": 1463.0,
+    "supply_units": 14496.0
+  },
+  {
+    "week_start": "2024-02-12",
+    "sales_amount": 2095065.0,
+    "demand_units": 1420.0,
+    "supply_units": 14687.0
+  },
+  {
+    "week_start": "2024-02-19",
+    "sales_amount": 2527592.0,
+    "demand_units": 1622.0,
+    "supply_units": 15575.0
+  },
+  {
+    "week_start": "2024-02-26",
+    "sales_amount": 2309436.0,
+    "demand_units": 1526.0,
+    "supply_units": 15790.0
+  },
+  {
+    "week_start": "2024-03-04",
+    "sales_amount": 1841928.0,
+    "demand_units": 1240.0,
+    "supply_units": 12125.0
+  },
+  {
+    "week_start": "2024-03-11",
+    "sales_amount": 2001290.0,
+    "demand_units": 1315.0,
+    "supply_units": 11625.0
+  },
+  {
+    "week_start": "2024-03-18",
+    "sales_amount": 1751082.0,
+    "demand_units": 1286.0,
+    "supply_units": 12732.0
+  },
+  {
+    "week_start": "2024-03-25",
+    "sales_amount": 1700686.0,
+    "demand_units": 1036.0,
+    "supply_units": 9169.0
+  },
+  {
+    "week_start": "2024-04-01",
+    "sales_amount": 1572105.0,
+    "demand_units": 1138.0,
+    "supply_units": 12053.0
+  },
+  {
+    "week_start": "2024-04-08",
+    "sales_amount": 2227268.0,
+    "demand_units": 1587.0,
+    "supply_units": 16701.0
+  },
+  {
+    "week_start": "2024-04-15",
+    "sales_amount": 2271449.0,
+    "demand_units": 1641.0,
+    "supply_units": 14877.0
+  },
+  {
+    "week_start": "2024-04-22",
+    "sales_amount": 2270177.0,
+    "demand_units": 1400.0,
+    "supply_units": 14611.0
+  },
+  {
+    "week_start": "2024-04-29",
+    "sales_amount": 1935814.0,
+    "demand_units": 1468.0,
+    "supply_units": 12309.0
+  },
+  {
+    "week_start": "2024-05-06",
+    "sales_amount": 1699350.0,
+    "demand_units": 1030.0,
+    "supply_units": 9700.0
+  },
+  {
+    "week_start": "2024-05-13",
+    "sales_amount": 1633473.0,
+    "demand_units": 1127.0,
+    "supply_units": 12151.0
+  },
+  {
+    "week_start": "2024-05-20",
+    "sales_amount": 2523574.0,
+    "demand_units": 1747.0,
+    "supply_units": 18485.0
+  },
+  {
+    "week_start": "2024-05-27",
+    "sales_amount": 2098534.0,
+    "demand_units": 1367.0,
+    "supply_units": 10993.0
+  },
+  {
+    "week_start": "2024-06-03",
+    "sales_amount": 1827515.0,
+    "demand_units": 1136.0,
+    "supply_units": 11034.0
+  },
+  {
+    "week_start": "2024-06-10",
+    "sales_amount": 1894903.0,
+    "demand_units": 1198.0,
+    "supply_units": 14345.0
+  },
+  {
+    "week_start": "2024-06-17",
+    "sales_amount": 2742107.0,
+    "demand_units": 1628.0,
+    "supply_units": 16045.0
+  },
+  {
+    "week_start": "2024-06-24",
+    "sales_amount": 1901676.0,
+    "demand_units": 1458.0,
+    "supply_units": 12478.0
+  },
+  {
+    "week_start": "2024-07-01",
+    "sales_amount": 2422334.0,
+    "demand_units": 1635.0,
+    "supply_units": 16624.0
+  },
+  {
+    "week_start": "2024-07-08",
+    "sales_amount": 1523779.0,
+    "demand_units": 1158.0,
+    "supply_units": 11523.0
+  },
+  {
+    "week_start": "2024-07-15",
+    "sales_amount": 2110378.0,
+    "demand_units": 1366.0,
+    "supply_units": 13104.0
+  },
+  {
+    "week_start": "2024-07-22",
+    "sales_amount": 1658096.0,
+    "demand_units": 1259.0,
+    "supply_units": 11735.0
+  },
+  {
+    "week_start": "2024-07-29",
+    "sales_amount": 1624248.0,
+    "demand_units": 976.0,
+    "supply_units": 10143.0
+  },
+  {
+    "week_start": "2024-08-05",
+    "sales_amount": 2835669.0,
+    "demand_units": 1804.0,
+    "supply_units": 16084.0
+  },
+  {
+    "week_start": "2024-08-12",
+    "sales_amount": 2255342.0,
+    "demand_units": 1340.0,
+    "supply_units": 14843.0
+  },
+  {
+    "week_start": "2024-08-19",
+    "sales_amount": 2455266.0,
+    "demand_units": 1667.0,
+    "supply_units": 13914.0
+  },
+  {
+    "week_start": "2024-08-26",
+    "sales_amount": 1931071.0,
+    "demand_units": 1223.0,
+    "supply_units": 11727.0
+  },
+  {
+    "week_start": "2024-09-02",
+    "sales_amount": 2286787.0,
+    "demand_units": 1369.0,
+    "supply_units": 12415.0
+  },
+  {
+    "week_start": "2024-09-09",
+    "sales_amount": 2641636.0,
+    "demand_units": 1672.0,
+    "supply_units": 14904.0
+  },
+  {
+    "week_start": "2024-09-16",
+    "sales_amount": 2070455.0,
+    "demand_units": 1255.0,
+    "supply_units": 13043.0
+  },
+  {
+    "week_start": "2024-09-23",
+    "sales_amount": 3378010.0,
+    "demand_units": 2021.0,
+    "supply_units": 19327.0
+  },
+  {
+    "week_start": "2024-09-30",
+    "sales_amount": 2219400.0,
+    "demand_units": 1512.0,
+    "supply_units": 16259.0
+  },
+  {
+    "week_start": "2024-10-07",
+    "sales_amount": 2177621.0,
+    "demand_units": 1491.0,
+    "supply_units": 13527.0
+  },
+  {
+    "week_start": "2024-10-14",
+    "sales_amount": 1505978.0,
+    "demand_units": 1060.0,
+    "supply_units": 11781.0
+  },
+  {
+    "week_start": "2024-10-21",
+    "sales_amount": 2010966.0,
+    "demand_units": 1441.0,
+    "supply_units": 13553.0
+  },
+  {
+    "week_start": "2024-10-28",
+    "sales_amount": 1706066.0,
+    "demand_units": 1136.0,
+    "supply_units": 11428.0
+  },
+  {
+    "week_start": "2024-11-04",
+    "sales_amount": 2454349.0,
+    "demand_units": 1627.0,
+    "supply_units": 15218.0
+  },
+  {
+    "week_start": "2024-11-11",
+    "sales_amount": 2456829.0,
+    "demand_units": 1602.0,
+    "supply_units": 17653.0
+  },
+  {
+    "week_start": "2024-11-18",
+    "sales_amount": 2092457.0,
+    "demand_units": 1407.0,
+    "supply_units": 12749.0
+  },
+  {
+    "week_start": "2024-11-25",
+    "sales_amount": 2015784.0,
+    "demand_units": 1421.0,
+    "supply_units": 12898.0
+  },
+  {
+    "week_start": "2024-12-02",
+    "sales_amount": 2249049.0,
+    "demand_units": 1412.0,
+    "supply_units": 13387.0
+  },
+  {
+    "week_start": "2024-12-09",
+    "sales_amount": 2449864.0,
+    "demand_units": 1684.0,
+    "supply_units": 14407.0
+  },
+  {
+    "week_start": "2024-12-16",
+    "sales_amount": 2746767.0,
+    "demand_units": 1425.0,
+    "supply_units": 14329.0
+  },
+  {
+    "week_start": "2024-12-23",
+    "sales_amount": 1737617.0,
+    "demand_units": 1289.0,
+    "supply_units": 11627.0
+  },
+  {
+    "week_start": "2024-12-30",
+    "sales_amount": 853714.0,
+    "demand_units": 527.0,
+    "supply_units": 4201.0
+  }
+]

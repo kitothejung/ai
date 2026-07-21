@@ -1,0 +1,15 @@
+agents:
+  claude:
+    entrypoint: CLAUDE.md
+    support_dir: .claude
+    workflow: config/workflow.yaml
+  codex:
+    entrypoint: AGENTS.md
+    support_dir: .codex
+    workflow: config/workflow.yaml
+shared:
+  memory_dir: memory
+  skills_dir: skills
+  project_file: config/project.yaml
+  rules_file: config/rules.yaml
+

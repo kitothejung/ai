@@ -8,7 +8,11 @@ This project is set up as a shared AI memory system for collaborative work betwe
 
 ## What To Do First
 
-- Read `README.md`.
+- Read `config/project.yaml`.
+- Read `config/agents.yaml`.
+- Read `config/workflow.yaml`.
+- Read `config/rules.yaml`.
+- Read the files in `skills/`.
 - Read the files in `memory/` starting with `memory/00-index.md`.
 - Treat the memory files as the persistent context for the project.
 
@@ -23,4 +27,3 @@ This project is set up as a shared AI memory system for collaborative work betwe
 
 - If you learn something that future sessions should know, add it to the appropriate memory file.
 - If a decision changes, update the old note instead of leaving contradictory guidance behind.
-
